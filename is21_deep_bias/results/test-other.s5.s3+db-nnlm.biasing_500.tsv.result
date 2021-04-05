@@ -1,0 +1,3 @@
+WER: error_rate=6.092505206044743, ref_words=52343, subs=2321, ins=347, dels=521
+U-WER: error_rate=5.062456110484541, ref_words=46993, subs=1601, ins=347, dels=431
+B-WER: error_rate=15.14018691588785, ref_words=5350, subs=720, ins=0, dels=90
